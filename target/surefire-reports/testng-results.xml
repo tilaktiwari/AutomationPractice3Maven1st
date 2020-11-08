@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="5" total="6" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-11-08T13:31:32 EST" name="TestSuit" finished-at="2020-11-08T13:31:47 EST" duration-ms="14771">
+    <groups>
+    </groups>
+    <test started-at="2020-11-08T13:31:32 EST" name="Amazon Automation" finished-at="2020-11-08T13:31:47 EST" duration-ms="14771">
+      <class name="amazontest.Practice3FromClass">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:amazontest.Practice3FromClass@5117dd67]" started-at="2020-11-08T13:31:32 EST" name="setUp" finished-at="2020-11-08T13:31:37 EST" duration-ms="5473" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginWithValidCredential()[pri:0, instance:amazontest.Practice3FromClass@5117dd67]" started-at="2020-11-08T13:31:37 EST" name="loginWithValidCredential" finished-at="2020-11-08T13:31:46 EST" duration-ms="8614" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithValidCredential -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:amazontest.Practice3FromClass@5117dd67]" started-at="2020-11-08T13:31:46 EST" name="tearDown" finished-at="2020-11-08T13:31:47 EST" duration-ms="656" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- amazontest.Practice3FromClass -->
+    </test> <!-- Amazon Automation -->
+  </suite> <!-- TestSuit -->
+</testng-results>

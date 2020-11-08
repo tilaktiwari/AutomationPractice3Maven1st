@@ -104,7 +104,7 @@ public class Practice3FromClass {
         Assert.assertEquals(actualText, expectedText, "Test Fail: Search keyword does not match");
     }
 
-    @Test(enabled = false)
+    @Test(enabled = true)
     public void loginWithValidCredential() throws InterruptedException {
         // Open Browser and Navigate to Amazon Url
         driver.get(amazonUrl);
